@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm JD or as my nickname says, Luishas 👋
 
-<!--
-**Luishas/Luishas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science student with a strong interest in data analysis,
+databases, and APIs. With a background of Game Development in Unity.
+I enjoy building practical projects and learning by
+solving real problems.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- **Languages:** C#, Python, SQL, JavaScript  
+- **Backend:** ASP.NET Core, REST APIs  
+- **Databases:** SQL Server, relational database design & normalization  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Frontend:** HTML, CSS  
+- **Game Dev:** Unity (C#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Currently Learning
+- Distributed systems and system architecture
+- API design best practices
+- Data-driven decision making
+
+## 📫 Contact
+- GitHub: https://github.com/Luishas  
+- LinkedIn: https://www.linkedin.com/in/juan-diego-leon-gonzales/  
+- Email: jdleon199@gmail.com
