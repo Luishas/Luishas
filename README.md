@@ -1,4 +1,4 @@
-## Hi there, I'm JD or as my nickname says, Luishas 👋
+## Hi there, I'm Juan Diego or as my nickname says, Luishas 👋
 
 I'm a data science student with a strong interest in data analysis,
 databases, and APIs. With a background of Game Development in Unity.
