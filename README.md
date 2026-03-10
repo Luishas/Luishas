@@ -9,7 +9,7 @@ solving real problems.
 - **Languages:** C#, Python, SQL, JavaScript  
 - **Backend:** ASP.NET Core, REST APIs  
 - **Databases:** SQL Server, relational database design & normalization  
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn, Jupiter Notebooks  
 - **Frontend:** HTML, CSS  
 - **Game Dev:** Unity (C#)
 
