@@ -22,3 +22,4 @@ solving real problems.
 - GitHub: https://github.com/Luishas  
 - LinkedIn: https://www.linkedin.com/in/juan-diego-leon-gonzales/  
 - Email: jdleon199@gmail.com
+- Web: https://luishas.github.io/
