@@ -1,7 +1,7 @@
 ## Hi there, I'm Juan Diego👋
 
-I'm a data science student with a strong interest in data analysis,
-databases, and APIs. With a background of Game Development in Unity.
+I'm a data science student while also learning Data Engineering, with experience in data analysis,
+databases, python, and APIs. With a background of Game Development in Unity.
 I enjoy building practical projects and learning by
 solving real problems.
 
